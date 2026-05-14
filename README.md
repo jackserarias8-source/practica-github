@@ -1,7 +1,7 @@
 # Práctica GitHub
 
 ## Autor
-Tu nombre
+JACKSER OSMAR VEGA ARIAS
 
 ## Carrera
 Ingeniería en Sistemas - I Año
