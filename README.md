@@ -2,6 +2,7 @@
 
 ## Autor
 JACKSER OSMAR VEGA ARIAS
+FRANKLIN JOSUÉ BARRERA ARIAS
 
 ## Carrera
 Ingeniería en Sistemas
